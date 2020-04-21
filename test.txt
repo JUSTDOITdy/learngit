@@ -1,1 +1,1 @@
-hello world dyy,welcome use git!
+hello world dyy,welcome use git! first modify,现在有个问题：已经加入跟踪的(git add)的，是直接commit提交，还是先git add 再 git commit?我先git commit 看看是否可以。
