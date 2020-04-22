@@ -1,1 +1,1 @@
-66666666,对test6.txt进行修改，然后git stash，再修改并且commit，还能否git stash pop?
+66666666,对test6.txt进行修改，然后git stash，再修改并且commit，还能否git stash pop?git stash会把工作区退回到原来的状态。把修改的全部记录。
