@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello world dyy,welcome use git! first modify,现在有个问题：已经加入跟踪的(git add)的，是直接commit提交，还是先git add 再 git commit?我先git commit 看看是否可以。111测试git add -p  即部分提交到暂存区的功能,git rm --cache <file>和git reset HEAD <file>都能清除暂存区，先实验前一个,
 =======
 hello world dyy,welcome use git! first modify,现在有个问题：已经加入跟踪的(git add)的，是直接commit提交，还是先git add 再 git commit?我先git commit 看看是否可以。111测试git add -p  即部分提交到暂存区的功能,git rm --cache <file>和git reset HEAD <file>都能清除暂存区，先实验前一个,
 >>>>>>> fenzhi
+=======
+hello world dyy,welcome use git! first modify,现在有个问题：已经加入跟踪的(git add)的，是直接commit提交，还是先git add 再 git commit?我先git commit 看看是否可以。111测试git add -p  即部分提交到暂存区的功能,git rm --cache <file>和git reset HEAD <file>都能清除暂存区，先实验前一个,在分支1里面进行修改，分支1修改2,fenzhi1比master多提交1次,看看上面情况
+>>>>>>> fenzhi1
