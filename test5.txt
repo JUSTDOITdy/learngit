@@ -1,1 +1,5 @@
-新创建的test5.txt，测试合并,修改分支1的test5.txt文件，测试git merge,两边都修改，这边是master的修改。
+<<<<<<< HEAD
+新创建的test5.txt，测试合并,修改分支1的test5.txt文件，测试git merge,两边都修改，这边是fenzhi1的修改
+=======
+新创建的test5.txt，测试合并,修改分支1的test5.txt文件，测试git merge,两边都修改，这里是fenzhi1的修改
+>>>>>>> fenzhi1
